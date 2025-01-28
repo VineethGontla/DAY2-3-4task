@@ -1,0 +1,2 @@
+Order ID: 84ba886f-97c3-44ff-aa5e-024b84043ef8, Customer: Alice, Products: Laptop, Smartphone, Total Cost: $1300.0
+Order ID: d9ec2758-d6dc-444b-98db-f4c04762b042, Customer: vineeth, Products: Laptop, Smartphone, Total Cost: $1300.0
